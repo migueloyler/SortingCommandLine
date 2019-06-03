@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=InsertionSort
-comment0.text=\n\ Write\ a\ description\ of\ class\ InsertionSort\ here.\n\n\ @author\ Miguel\n\ @version\ \n
-comment1.params=data
-comment1.target=void\ insertionSort(int[])
-numComments=2

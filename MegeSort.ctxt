@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=MegeSort
-comment0.text=\n\ A\ simple\ implementation\ of\ MergeSort\n\ left\ and\ right\ sub-arrays\ are\ created\ in\ the\ merge\ method\ instead\ of\ the\ sort\ method\n\n\ @author\ Miguel\n\ @version\ \n
-comment1.params=arr\ start\ end
-comment1.target=void\ sort(int[],\ int,\ int)
-comment2.params=arr\ start\ end\ mid
-comment2.target=void\ merge(int[],\ int,\ int,\ int)
-numComments=3
