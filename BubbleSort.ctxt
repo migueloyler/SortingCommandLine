@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BubbleSort
+comment0.text=\n\ A\ Demo\ of\ bubble\ sort\n\n\ @author\ Eric\ Chown\n\ @version\ 3/20/18\n
+comment1.params=data\ i\ j
+comment1.target=void\ swap(int[],\ int,\ int)
+comment2.params=data
+comment2.target=void\ bubbleSort(int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=dataSize\ maxVal
+comment4.target=void\ bubbleSortDemo(int,\ int)
+comment4.text=\n\ Runs\ a\ demo\ of\ bubble\ sort\ (same\ algorithm\ as\ above,\ but\ uses\ the\ SortSim\n\ class\ to\ display\ the\ steps\ of\ the\ sort).\n
+numComments=5
